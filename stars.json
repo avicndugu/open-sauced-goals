@@ -1,5 +1,71 @@
 [
   {
+    "full_name": "roryg/ghostwriter",
+    "stargazers_count": 864,
+    "open_issues_count": 16,
+    "forks_count": 370
+  },
+  {
+    "full_name": "xianmin/hugo-theme-jane",
+    "stargazers_count": 786,
+    "open_issues_count": 68,
+    "forks_count": 265
+  },
+  {
+    "full_name": "Vimux/Mainroad",
+    "stargazers_count": 696,
+    "open_issues_count": 12,
+    "forks_count": 394
+  },
+  {
+    "full_name": "janraasch/hugo-scroll",
+    "stargazers_count": 155,
+    "open_issues_count": 7,
+    "forks_count": 104
+  },
+  {
+    "full_name": "wangchucheng/hugo-eureka",
+    "stargazers_count": 737,
+    "open_issues_count": 24,
+    "forks_count": 177
+  },
+  {
+    "full_name": "adityatelange/hugo-PaperMod",
+    "stargazers_count": 4670,
+    "open_issues_count": 44,
+    "forks_count": 1468
+  },
+  {
+    "full_name": "saey55/hugo-elate-theme",
+    "stargazers_count": 178,
+    "open_issues_count": 15,
+    "forks_count": 102
+  },
+  {
+    "full_name": "apvarun/showfolio-hugo-theme",
+    "stargazers_count": 75,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "chipzoller/hugo-clarity",
+    "stargazers_count": 420,
+    "open_issues_count": 25,
+    "forks_count": 215
+  },
+  {
+    "full_name": "kishaningithub/hugo-creative-portfolio-theme",
+    "stargazers_count": 384,
+    "open_issues_count": 29,
+    "forks_count": 267
+  },
+  {
+    "full_name": "zhaohuabing/hugo-theme-cleanwhite",
+    "stargazers_count": 496,
+    "open_issues_count": 4,
+    "forks_count": 254
+  },
+  {
     "full_name": "jbub/ghostwriter",
     "stargazers_count": 172,
     "open_issues_count": 11,
@@ -7,9 +73,9 @@
   },
   {
     "full_name": "stackbit/jamstackthemes",
-    "stargazers_count": 471,
-    "open_issues_count": 28,
-    "forks_count": 230
+    "stargazers_count": 473,
+    "open_issues_count": 29,
+    "forks_count": 232
   },
   {
     "full_name": "kognise/next-barebones-template",
@@ -19,27 +85,27 @@
   },
   {
     "full_name": "kognise/water.css",
-    "stargazers_count": 7321,
-    "open_issues_count": 40,
-    "forks_count": 402
+    "stargazers_count": 7325,
+    "open_issues_count": 41,
+    "forks_count": 403
   },
   {
     "full_name": "johno/pixyll",
-    "stargazers_count": 2009,
+    "stargazers_count": 2010,
     "open_issues_count": 38,
     "forks_count": 1378
   },
   {
     "full_name": "zerostaticthemes/jekyll-serif-theme",
-    "stargazers_count": 485,
+    "stargazers_count": 489,
     "open_issues_count": 2,
-    "forks_count": 512
+    "forks_count": 514
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 45458,
-    "open_issues_count": 177,
-    "forks_count": 9899
+    "stargazers_count": 45475,
+    "open_issues_count": 182,
+    "forks_count": 9903
   },
   {
     "full_name": "section-engineering-education/engineering-education",
@@ -49,7 +115,7 @@
   },
   {
     "full_name": "andrewbanchich/forty-jekyll-theme",
-    "stargazers_count": 881,
+    "stargazers_count": 882,
     "open_issues_count": 3,
     "forks_count": 1692
   },
@@ -57,43 +123,43 @@
     "full_name": "mmistakes/jekyll-theme-basically-basic",
     "stargazers_count": 730,
     "open_issues_count": 7,
-    "forks_count": 1063
+    "forks_count": 1064
   },
   {
     "full_name": "google/eleventy-high-performance-blog",
-    "stargazers_count": 3723,
+    "stargazers_count": 3724,
     "open_issues_count": 14,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "GetPublii/theme-Blank",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 2,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "fomantic/Fomantic-UI",
-    "stargazers_count": 3066,
-    "open_issues_count": 227,
+    "stargazers_count": 3068,
+    "open_issues_count": 228,
     "forks_count": 307
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 20567,
-    "open_issues_count": 68,
+    "stargazers_count": 20580,
+    "open_issues_count": 73,
     "forks_count": 3391
   },
   {
     "full_name": "lukehaas/css-loaders",
-    "stargazers_count": 6934,
+    "stargazers_count": 6937,
     "open_issues_count": 19,
-    "forks_count": 1057
+    "forks_count": 1059
   },
   {
     "full_name": "eligrey/FileSaver.js",
-    "stargazers_count": 19572,
+    "stargazers_count": 19584,
     "open_issues_count": 180,
-    "forks_count": 4348
+    "forks_count": 4349
   },
   {
     "full_name": "KostaSav/hp-api",
@@ -103,80 +169,14 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 18008,
-    "open_issues_count": 266,
-    "forks_count": 2131
+    "stargazers_count": 18059,
+    "open_issues_count": 283,
+    "forks_count": 2144
   },
   {
     "full_name": "rouge-ruby/rouge",
     "stargazers_count": 3129,
     "open_issues_count": 188,
     "forks_count": 706
-  },
-  {
-    "full_name": "paulirish/lite-youtube-embed",
-    "stargazers_count": 4390,
-    "open_issues_count": 26,
-    "forks_count": 206
-  },
-  {
-    "full_name": "phuocng/html-dom",
-    "stargazers_count": 4978,
-    "open_issues_count": 32,
-    "forks_count": 407
-  },
-  {
-    "full_name": "phuocng/csslayout",
-    "stargazers_count": 6856,
-    "open_issues_count": 15,
-    "forks_count": 467
-  },
-  {
-    "full_name": "pages-themes/cayman",
-    "stargazers_count": 942,
-    "open_issues_count": 30,
-    "forks_count": 2683
-  },
-  {
-    "full_name": "hankchizljaw/11ty-base",
-    "stargazers_count": 67,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "ronreiter/managing-software-developers",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "fongandrew/hydeout",
-    "stargazers_count": 539,
-    "open_issues_count": 17,
-    "forks_count": 722
-  },
-  {
-    "full_name": "taniarascia/primitive",
-    "stargazers_count": 885,
-    "open_issues_count": 2,
-    "forks_count": 82
-  },
-  {
-    "full_name": "owenversteeg/min",
-    "stargazers_count": 1179,
-    "open_issues_count": 15,
-    "forks_count": 109
-  },
-  {
-    "full_name": "ellekasai/shiori",
-    "stargazers_count": 314,
-    "open_issues_count": 1,
-    "forks_count": 131
-  },
-  {
-    "full_name": "sharu725/online-cv",
-    "stargazers_count": 2220,
-    "open_issues_count": 17,
-    "forks_count": 4476
   }
 ]
