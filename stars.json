@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "littlesticks/odyssey-theme",
+    "stargazers_count": 184,
+    "open_issues_count": 2,
+    "forks_count": 52
+  },
+  {
     "full_name": "andrewbanchich/forty-jekyll-theme",
     "stargazers_count": 907,
-    "open_issues_count": 3,
-    "forks_count": 1786
+    "open_issues_count": 5,
+    "forks_count": 1792
   },
   {
     "full_name": "google/docsy",
-    "stargazers_count": 2051,
-    "open_issues_count": 245,
-    "forks_count": 757
+    "stargazers_count": 2060,
+    "open_issues_count": 248,
+    "forks_count": 759
   },
   {
     "full_name": "alex-shpak/hugo-book",
-    "stargazers_count": 2185,
-    "open_issues_count": 48,
-    "forks_count": 905
+    "stargazers_count": 2188,
+    "open_issues_count": 49,
+    "forks_count": 907
   },
   {
     "full_name": "CloudCannon/hydra-jekyll-bookshop-template",
@@ -27,7 +33,7 @@
     "full_name": "CloudCannon/edition-jekyll-template",
     "stargazers_count": 322,
     "open_issues_count": 5,
-    "forks_count": 275
+    "forks_count": 273
   },
   {
     "full_name": "CloudCannon/fur-jekyll-template",
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "astro-community/astro-compress",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "mixmark-io/turndown",
-    "stargazers_count": 6585,
+    "stargazers_count": 6593,
     "open_issues_count": 104,
     "forks_count": 756
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 18794,
-    "open_issues_count": 211,
-    "forks_count": 2796
+    "stargazers_count": 18806,
+    "open_issues_count": 212,
+    "forks_count": 2798
   },
   {
     "full_name": "zyro/hyde-x",
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2772,
-    "open_issues_count": 3,
+    "stargazers_count": 2781,
+    "open_issues_count": 4,
     "forks_count": 475
   },
   {
@@ -91,13 +97,13 @@
   },
   {
     "full_name": "humanwhocodes/humanwhocodes.com",
-    "stargazers_count": 7,
+    "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "moodlebox/moodlebox.net",
-    "stargazers_count": 24,
+    "stargazers_count": 23,
     "open_issues_count": 5,
     "forks_count": 12
   },
@@ -115,33 +121,33 @@
   },
   {
     "full_name": "chrisrhymes/bulma-clean-theme",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 3,
-    "forks_count": 411
+    "forks_count": 416
   },
   {
     "full_name": "daviddarnes/alembic",
-    "stargazers_count": 662,
+    "stargazers_count": 663,
     "open_issues_count": 6,
-    "forks_count": 771
+    "forks_count": 773
   },
   {
     "full_name": "mmistakes/minimal-mistakes",
-    "stargazers_count": 10588,
+    "stargazers_count": 10597,
     "open_issues_count": 44,
-    "forks_count": 21547
+    "forks_count": 21573
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 62024,
+    "stargazers_count": 62145,
     "open_issues_count": 373,
-    "forks_count": 8169
+    "forks_count": 8188
   },
   {
     "full_name": "roryg/ghostwriter",
     "stargazers_count": 863,
     "open_issues_count": 16,
-    "forks_count": 372
+    "forks_count": 371
   },
   {
     "full_name": "xianmin/hugo-theme-jane",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "Vimux/Mainroad",
-    "stargazers_count": 714,
+    "stargazers_count": 715,
     "open_issues_count": 12,
-    "forks_count": 408
+    "forks_count": 407
   },
   {
     "full_name": "janraasch/hugo-scroll",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 6,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "wangchucheng/hugo-eureka",
-    "stargazers_count": 774,
-    "open_issues_count": 31,
+    "stargazers_count": 775,
+    "open_issues_count": 32,
     "forks_count": 186
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 5384,
-    "open_issues_count": 69,
-    "forks_count": 1701
-  },
-  {
-    "full_name": "saey55/hugo-elate-theme",
-    "stargazers_count": 184,
-    "open_issues_count": 15,
-    "forks_count": 104
+    "stargazers_count": 5411,
+    "open_issues_count": 72,
+    "forks_count": 1712
   }
 ]
