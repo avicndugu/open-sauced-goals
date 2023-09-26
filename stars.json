@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "web3templates/nextly-template",
+    "stargazers_count": 416,
+    "open_issues_count": 2,
+    "forks_count": 160
+  },
+  {
+    "full_name": "mzrnsh/jekyllwind",
+    "stargazers_count": 46,
+    "open_issues_count": 2,
+    "forks_count": 9
+  },
+  {
     "full_name": "xaprb/story",
     "stargazers_count": 168,
     "open_issues_count": 1,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "async-labs/builderbook",
-    "stargazers_count": 3595,
+    "stargazers_count": 3596,
     "open_issues_count": 69,
-    "forks_count": 877
+    "forks_count": 878
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 31872,
+    "stargazers_count": 31929,
     "open_issues_count": 18,
-    "forks_count": 7838
+    "forks_count": 7850
   },
   {
     "full_name": "bjacquemet/personal-web",
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "MrGreensWorkshop/MrGreen-JekyllTheme",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 2,
     "forks_count": 249
   },
   {
     "full_name": "niklasbuschmann/contrast",
-    "stargazers_count": 364,
+    "stargazers_count": 366,
     "open_issues_count": 33,
-    "forks_count": 1752
+    "forks_count": 1753
   },
   {
     "full_name": "planetscale/nextjs-planetscale-starter",
@@ -49,9 +61,9 @@
   },
   {
     "full_name": "jpanther/congo",
-    "stargazers_count": 873,
-    "open_issues_count": 19,
-    "forks_count": 240
+    "stargazers_count": 875,
+    "open_issues_count": 22,
+    "forks_count": 241
   },
   {
     "full_name": "ubc-library-rc/intro-jekyll",
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "puikinsh/Adminator-admin-dashboard",
-    "stargazers_count": 4179,
-    "open_issues_count": 13,
-    "forks_count": 1711
+    "stargazers_count": 4184,
+    "open_issues_count": 11,
+    "forks_count": 1714
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 42948,
-    "open_issues_count": 92,
-    "forks_count": 18191
+    "stargazers_count": 42965,
+    "open_issues_count": 100,
+    "forks_count": 18189
   },
   {
     "full_name": "planetjekyll/awesome-jekyll-editors",
@@ -93,7 +105,7 @@
     "full_name": "vencax/netlify-cms-github-oauth-provider",
     "stargazers_count": 191,
     "open_issues_count": 8,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "i40west/netlify-cms-cloudflare-pages",
@@ -105,25 +117,25 @@
     "full_name": "jamigibbs/phantom",
     "stargazers_count": 317,
     "open_issues_count": 9,
-    "forks_count": 359
+    "forks_count": 360
   },
   {
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
-    "stargazers_count": 1173,
+    "stargazers_count": 1175,
     "open_issues_count": 59,
     "forks_count": 1362
   },
   {
     "full_name": "luizdepra/hugo-coder",
-    "stargazers_count": 2431,
-    "open_issues_count": 48,
-    "forks_count": 968
+    "stargazers_count": 2432,
+    "open_issues_count": 49,
+    "forks_count": 967
   },
   {
     "full_name": "wowthemesnet/affiliates-jekyll-theme",
     "stargazers_count": 297,
     "open_issues_count": 9,
-    "forks_count": 367
+    "forks_count": 368
   },
   {
     "full_name": "CloudCannon/hydra-jekyll-template",
@@ -135,7 +147,7 @@
     "full_name": "codeigniter4/framework",
     "stargazers_count": 270,
     "open_issues_count": 0,
-    "forks_count": 145
+    "forks_count": 146
   },
   {
     "full_name": "snmslavk/awesome-jekyll-websites",
@@ -147,36 +159,24 @@
     "full_name": "littlesticks/odyssey-theme",
     "stargazers_count": 351,
     "open_issues_count": 9,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "andrewbanchich/forty-jekyll-theme",
-    "stargazers_count": 968,
+    "stargazers_count": 969,
     "open_issues_count": 6,
-    "forks_count": 1997
+    "forks_count": 2001
   },
   {
     "full_name": "google/docsy",
-    "stargazers_count": 2281,
-    "open_issues_count": 237,
-    "forks_count": 813
+    "stargazers_count": 2282,
+    "open_issues_count": 239,
+    "forks_count": 814
   },
   {
     "full_name": "alex-shpak/hugo-book",
     "stargazers_count": 2492,
     "open_issues_count": 53,
-    "forks_count": 1027
-  },
-  {
-    "full_name": "CloudCannon/hydra-jekyll-bookshop-template",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "CloudCannon/edition-jekyll-template",
-    "stargazers_count": 339,
-    "open_issues_count": 5,
-    "forks_count": 270
+    "forks_count": 1028
   }
 ]
