@@ -1,15 +1,15 @@
 [
   {
-    "full_name": "web3templates/nextly-template",
-    "stargazers_count": 424,
-    "open_issues_count": 2,
-    "forks_count": 167
-  },
-  {
     "full_name": "mzrnsh/jekyllwind",
     "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 9
+  },
+  {
+    "full_name": "web3templates/nextly-template",
+    "stargazers_count": 429,
+    "open_issues_count": 2,
+    "forks_count": 169
   },
   {
     "full_name": "xaprb/story",
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "async-labs/builderbook",
-    "stargazers_count": 3608,
+    "stargazers_count": 3610,
     "open_issues_count": 69,
     "forks_count": 877
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 32217,
+    "stargazers_count": 32267,
     "open_issues_count": 20,
-    "forks_count": 7893
+    "forks_count": 7910
   },
   {
     "full_name": "bjacquemet/personal-web",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 8,
     "forks_count": 91
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "niklasbuschmann/contrast",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 33,
-    "forks_count": 1759
+    "forks_count": 1766
   },
   {
     "full_name": "planetscale/nextjs-planetscale-starter",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "jpanther/congo",
-    "stargazers_count": 887,
-    "open_issues_count": 29,
+    "stargazers_count": 890,
+    "open_issues_count": 27,
     "forks_count": 244
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "puikinsh/Adminator-admin-dashboard",
-    "stargazers_count": 4191,
+    "stargazers_count": 4196,
     "open_issues_count": 11,
-    "forks_count": 1711
+    "forks_count": 1712
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 43001,
-    "open_issues_count": 100,
-    "forks_count": 18195
+    "stargazers_count": 43011,
+    "open_issues_count": 95,
+    "forks_count": 18200
   },
   {
     "full_name": "planetjekyll/awesome-jekyll-editors",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "vencax/netlify-cms-github-oauth-provider",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 8,
     "forks_count": 115
   },
   {
     "full_name": "i40west/netlify-cms-cloudflare-pages",
-    "stargazers_count": 50,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -123,23 +123,23 @@
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
     "stargazers_count": 1182,
     "open_issues_count": 59,
-    "forks_count": 1370
+    "forks_count": 1372
   },
   {
     "full_name": "luizdepra/hugo-coder",
-    "stargazers_count": 2442,
+    "stargazers_count": 2444,
     "open_issues_count": 49,
     "forks_count": 973
   },
   {
     "full_name": "wowthemesnet/affiliates-jekyll-theme",
-    "stargazers_count": 300,
+    "stargazers_count": 301,
     "open_issues_count": 9,
-    "forks_count": 371
+    "forks_count": 373
   },
   {
     "full_name": "CloudCannon/hydra-jekyll-template",
-    "stargazers_count": 403,
+    "stargazers_count": 404,
     "open_issues_count": 4,
     "forks_count": 392
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "littlesticks/odyssey-theme",
-    "stargazers_count": 361,
+    "stargazers_count": 363,
     "open_issues_count": 9,
-    "forks_count": 95
+    "forks_count": 97
   },
   {
     "full_name": "andrewbanchich/forty-jekyll-theme",
-    "stargazers_count": 977,
+    "stargazers_count": 979,
     "open_issues_count": 6,
-    "forks_count": 2006
+    "forks_count": 2004
   },
   {
     "full_name": "google/docsy",
-    "stargazers_count": 2285,
-    "open_issues_count": 242,
-    "forks_count": 819
+    "stargazers_count": 2291,
+    "open_issues_count": 245,
+    "forks_count": 821
   },
   {
     "full_name": "alex-shpak/hugo-book",
-    "stargazers_count": 2504,
-    "open_issues_count": 53,
-    "forks_count": 1034
+    "stargazers_count": 2507,
+    "open_issues_count": 54,
+    "forks_count": 1036
   }
 ]
