@@ -3,7 +3,7 @@
     "full_name": "bugbytes-io/django-htmx",
     "stargazers_count": 145,
     "open_issues_count": 1,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "davidgrzyb/tailwind-admin-template",
@@ -15,7 +15,7 @@
     "full_name": "moesaid/cleopatra",
     "stargazers_count": 1368,
     "open_issues_count": 1,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "PublicisSapient/cra-template-accelerate",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "nareshbhatia/react-testing-techniques",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 19104,
-    "open_issues_count": 1473,
-    "forks_count": 1113
+    "stargazers_count": 19198,
+    "open_issues_count": 1470,
+    "forks_count": 1120
   },
   {
     "full_name": "opencollective/opencollective-frontend",
     "stargazers_count": 794,
-    "open_issues_count": 58,
+    "open_issues_count": 56,
     "forks_count": 387
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17629,
+    "stargazers_count": 17635,
     "open_issues_count": 549,
-    "forks_count": 3024
+    "forks_count": 3023
   },
   {
     "full_name": "ObedNyakundi/Rental-house-management-system",
@@ -57,7 +57,7 @@
     "full_name": "Vimux/Mainroad",
     "stargazers_count": 886,
     "open_issues_count": 22,
-    "forks_count": 459
+    "forks_count": 458
   },
   {
     "full_name": "Kudos01/Hugo-GDPR-Cookie-Consent-Banner",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "osano/cookieconsent",
-    "stargazers_count": 3366,
-    "open_issues_count": 92,
+    "stargazers_count": 3367,
+    "open_issues_count": 93,
     "forks_count": 575
   },
   {
     "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 3651,
+    "stargazers_count": 3657,
     "open_issues_count": 34,
     "forks_count": 383
   },
   {
     "full_name": "quiqr/quiqr-desktop",
-    "stargazers_count": 82,
+    "stargazers_count": 84,
     "open_issues_count": 104,
     "forks_count": 2
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 699,
+    "stargazers_count": 705,
     "open_issues_count": 19,
     "forks_count": 33
   },
   {
     "full_name": "unfolding-io/nebulix",
-    "stargazers_count": 221,
+    "stargazers_count": 223,
     "open_issues_count": 3,
-    "forks_count": 107
+    "forks_count": 108
   },
   {
     "full_name": "dashpilot/netlify-identity-git-gateway",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "ImageMagick/ImageMagick",
-    "stargazers_count": 11466,
-    "open_issues_count": 100,
-    "forks_count": 1304
+    "stargazers_count": 11485,
+    "open_issues_count": 97,
+    "forks_count": 1305
   },
   {
     "full_name": "gohugoio/hugo-mod-bootstrap-scss",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microfeed/microfeed",
-    "stargazers_count": 3260,
-    "open_issues_count": 25,
-    "forks_count": 919
+    "stargazers_count": 3266,
+    "open_issues_count": 26,
+    "forks_count": 924
   },
   {
     "full_name": "gohugoio/hugoBasicExample",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "nusserstudios/tailbliss",
-    "stargazers_count": 277,
-    "open_issues_count": 0,
-    "forks_count": 125
+    "stargazers_count": 280,
+    "open_issues_count": 2,
+    "forks_count": 127
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 669,
+    "stargazers_count": 673,
     "open_issues_count": 6,
-    "forks_count": 195
+    "forks_count": 196
   },
   {
     "full_name": "ronv/jam",
-    "stargazers_count": 27,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "web3templates/nextly-template",
-    "stargazers_count": 709,
+    "stargazers_count": 713,
     "open_issues_count": 0,
-    "forks_count": 273
+    "forks_count": 277
   },
   {
     "full_name": "xaprb/story",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "async-labs/builderbook",
-    "stargazers_count": 3738,
+    "stargazers_count": 3740,
     "open_issues_count": 65,
     "forks_count": 889
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 37559,
+    "stargazers_count": 37621,
     "open_issues_count": 10,
-    "forks_count": 8978
+    "forks_count": 8990
   }
 ]
