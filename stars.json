@@ -1,19 +1,19 @@
 [
   {
     "full_name": "advantch/django-alpine-js-tutorial",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "spookylukey/django-htmx-patterns",
-    "stargazers_count": 838,
+    "stargazers_count": 839,
     "open_issues_count": 2,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "easepick/easepick",
-    "stargazers_count": 557,
+    "stargazers_count": 560,
     "open_issues_count": 60,
     "forks_count": 52
   },
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 19591,
-    "open_issues_count": 1484,
-    "forks_count": 1146
+    "stargazers_count": 19637,
+    "open_issues_count": 1482,
+    "forks_count": 1151
   },
   {
     "full_name": "opencollective/opencollective-frontend",
-    "stargazers_count": 798,
-    "open_issues_count": 62,
-    "forks_count": 388
+    "stargazers_count": 799,
+    "open_issues_count": 63,
+    "forks_count": 387
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17687,
-    "open_issues_count": 549,
+    "stargazers_count": 17693,
+    "open_issues_count": 550,
     "forks_count": 3031
   },
   {
@@ -75,7 +75,7 @@
     "full_name": "Vimux/Mainroad",
     "stargazers_count": 892,
     "open_issues_count": 21,
-    "forks_count": 456
+    "forks_count": 455
   },
   {
     "full_name": "Kudos01/Hugo-GDPR-Cookie-Consent-Banner",
@@ -86,7 +86,7 @@
   {
     "full_name": "brainsum/cookieconsent",
     "stargazers_count": 389,
-    "open_issues_count": 48,
+    "open_issues_count": 45,
     "forks_count": 85
   },
   {
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 3705,
-    "open_issues_count": 33,
-    "forks_count": 392
+    "stargazers_count": 3711,
+    "open_issues_count": 32,
+    "forks_count": 394
   },
   {
     "full_name": "quiqr/quiqr-desktop",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 744,
+    "stargazers_count": 750,
     "open_issues_count": 19,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "unfolding-io/nebulix",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ImageMagick/ImageMagick",
-    "stargazers_count": 11588,
-    "open_issues_count": 103,
-    "forks_count": 1314
+    "stargazers_count": 11614,
+    "open_issues_count": 104,
+    "forks_count": 1313
   },
   {
     "full_name": "gohugoio/hugo-mod-bootstrap-scss",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microfeed/microfeed",
-    "stargazers_count": 3294,
-    "open_issues_count": 27,
-    "forks_count": 954
+    "stargazers_count": 3299,
+    "open_issues_count": 28,
+    "forks_count": 957
   },
   {
     "full_name": "gohugoio/hugoBasicExample",
@@ -152,12 +152,12 @@
   {
     "full_name": "nusserstudios/tailbliss",
     "stargazers_count": 286,
-    "open_issues_count": 1,
-    "forks_count": 131
+    "open_issues_count": 0,
+    "forks_count": 132
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 693,
+    "stargazers_count": 700,
     "open_issues_count": 8,
     "forks_count": 201
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "web3templates/nextly-template",
-    "stargazers_count": 743,
+    "stargazers_count": 744,
     "open_issues_count": 0,
-    "forks_count": 281
+    "forks_count": 283
   }
 ]
