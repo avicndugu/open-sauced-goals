@@ -7,7 +7,7 @@
   },
   {
     "full_name": "spookylukey/django-htmx-patterns",
-    "stargazers_count": 865,
+    "stargazers_count": 867,
     "open_issues_count": 2,
     "forks_count": 32
   },
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "nareshbhatia/react-testing-techniques",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 20331,
-    "open_issues_count": 1500,
-    "forks_count": 1206
+    "stargazers_count": 20390,
+    "open_issues_count": 1505,
+    "forks_count": 1214
   },
   {
     "full_name": "opencollective/opencollective-frontend",
     "stargazers_count": 804,
-    "open_issues_count": 66,
-    "forks_count": 396
+    "open_issues_count": 61,
+    "forks_count": 397
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17763,
-    "open_issues_count": 482,
-    "forks_count": 3035
+    "stargazers_count": 17766,
+    "open_issues_count": 485,
+    "forks_count": 3034
   },
   {
     "full_name": "ObedNyakundi/Rental-house-management-system",
     "stargazers_count": 35,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "Vimux/Mainroad",
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "osano/cookieconsent",
-    "stargazers_count": 3390,
+    "stargazers_count": 3393,
     "open_issues_count": 93,
     "forks_count": 578
   },
   {
     "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 3822,
-    "open_issues_count": 35,
+    "stargazers_count": 3832,
+    "open_issues_count": 38,
     "forks_count": 401
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 802,
+    "stargazers_count": 804,
     "open_issues_count": 20,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "unfolding-io/nebulix",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "ImageMagick/ImageMagick",
-    "stargazers_count": 11826,
+    "stargazers_count": 11842,
     "open_issues_count": 102,
     "forks_count": 1332
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microfeed/microfeed",
-    "stargazers_count": 3347,
+    "stargazers_count": 3351,
     "open_issues_count": 29,
-    "forks_count": 1009
+    "forks_count": 1012
   },
   {
     "full_name": "gohugoio/hugoBasicExample",
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "nusserstudios/tailbliss",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 1,
     "forks_count": 140
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 768,
-    "open_issues_count": 9,
+    "stargazers_count": 772,
+    "open_issues_count": 11,
     "forks_count": 214
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "web3templates/nextly-template",
-    "stargazers_count": 784,
-    "open_issues_count": 0,
-    "forks_count": 296
+    "stargazers_count": 788,
+    "open_issues_count": 1,
+    "forks_count": 300
   }
 ]
