@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "TailGrids/play-tailwind",
+    "stargazers_count": 857,
+    "open_issues_count": 3,
+    "forks_count": 187
+  },
+  {
+    "full_name": "maddog986/react-typescript-tailwind-webpack-starter",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "advantch/django-alpine-js-tutorial",
     "stargazers_count": 11,
     "open_issues_count": 2,
@@ -7,13 +19,13 @@
   },
   {
     "full_name": "spookylukey/django-htmx-patterns",
-    "stargazers_count": 879,
+    "stargazers_count": 883,
     "open_issues_count": 2,
     "forks_count": 32
   },
   {
     "full_name": "easepick/easepick",
-    "stargazers_count": 578,
+    "stargazers_count": 581,
     "open_issues_count": 65,
     "forks_count": 56
   },
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "davidgrzyb/tailwind-admin-template",
-    "stargazers_count": 537,
+    "stargazers_count": 536,
     "open_issues_count": 3,
     "forks_count": 154
   },
   {
     "full_name": "moesaid/cleopatra",
-    "stargazers_count": 1396,
+    "stargazers_count": 1399,
     "open_issues_count": 0,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "PublicisSapient/cra-template-accelerate",
@@ -43,27 +55,27 @@
   },
   {
     "full_name": "nareshbhatia/react-testing-techniques",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 36
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 20634,
-    "open_issues_count": 1495,
-    "forks_count": 1231
+    "stargazers_count": 20688,
+    "open_issues_count": 1498,
+    "forks_count": 1236
   },
   {
     "full_name": "opencollective/opencollective-frontend",
-    "stargazers_count": 808,
-    "open_issues_count": 66,
+    "stargazers_count": 806,
+    "open_issues_count": 67,
     "forks_count": 399
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17787,
+    "stargazers_count": 17790,
     "open_issues_count": 483,
-    "forks_count": 3032
+    "forks_count": 3034
   },
   {
     "full_name": "ObedNyakundi/Rental-house-management-system",
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "Vimux/Mainroad",
-    "stargazers_count": 905,
+    "stargazers_count": 906,
     "open_issues_count": 22,
-    "forks_count": 457
+    "forks_count": 456
   },
   {
     "full_name": "Kudos01/Hugo-GDPR-Cookie-Consent-Banner",
@@ -85,20 +97,20 @@
   },
   {
     "full_name": "brainsum/cookieconsent",
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 48,
     "forks_count": 87
   },
   {
     "full_name": "osano/cookieconsent",
-    "stargazers_count": 3396,
+    "stargazers_count": 3393,
     "open_issues_count": 93,
     "forks_count": 579
   },
   {
     "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 3861,
-    "open_issues_count": 38,
+    "stargazers_count": 3864,
+    "open_issues_count": 39,
     "forks_count": 404
   },
   {
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 813,
+    "stargazers_count": 817,
     "open_issues_count": 20,
     "forks_count": 38
   },
@@ -117,7 +129,7 @@
     "full_name": "unfolding-io/nebulix",
     "stargazers_count": 232,
     "open_issues_count": 3,
-    "forks_count": 113
+    "forks_count": 112
   },
   {
     "full_name": "dashpilot/netlify-identity-git-gateway",
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "ImageMagick/ImageMagick",
-    "stargazers_count": 11916,
-    "open_issues_count": 104,
-    "forks_count": 1337
+    "stargazers_count": 11939,
+    "open_issues_count": 108,
+    "forks_count": 1342
   },
   {
     "full_name": "gohugoio/hugo-mod-bootstrap-scss",
@@ -139,25 +151,25 @@
   },
   {
     "full_name": "microfeed/microfeed",
-    "stargazers_count": 3363,
+    "stargazers_count": 3368,
     "open_issues_count": 29,
-    "forks_count": 1019
+    "forks_count": 1023
   },
   {
     "full_name": "gohugoio/hugoBasicExample",
-    "stargazers_count": 281,
+    "stargazers_count": 280,
     "open_issues_count": 0,
     "forks_count": 282
   },
   {
     "full_name": "nusserstudios/tailbliss",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 2,
-    "forks_count": 143
+    "forks_count": 145
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 791,
+    "stargazers_count": 798,
     "open_issues_count": 12,
     "forks_count": 218
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 11
-  },
-  {
-    "full_name": "mzrnsh/jekyllwind",
-    "stargazers_count": 72,
-    "open_issues_count": 4,
-    "forks_count": 16
-  },
-  {
-    "full_name": "web3templates/nextly-template",
-    "stargazers_count": 799,
-    "open_issues_count": 0,
-    "forks_count": 304
   }
 ]
