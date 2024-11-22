@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "vshymanskyy/miband-js",
+    "stargazers_count": 342,
+    "open_issues_count": 23,
+    "forks_count": 69
+  },
+  {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 34088,
-    "open_issues_count": 101,
+    "stargazers_count": 34129,
+    "open_issues_count": 100,
     "forks_count": 1303
   },
   {
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "reactpatterns/reactpatterns",
-    "stargazers_count": 558,
+    "stargazers_count": 559,
     "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "rutikwankhade/CoverView",
-    "stargazers_count": 906,
+    "stargazers_count": 907,
     "open_issues_count": 4,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "TailAdmin/free-react-tailwind-admin-dashboard",
-    "stargazers_count": 619,
+    "stargazers_count": 628,
     "open_issues_count": 2,
-    "forks_count": 224
+    "forks_count": 226
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 25739,
-    "open_issues_count": 491,
-    "forks_count": 1638
+    "stargazers_count": 27535,
+    "open_issues_count": 481,
+    "forks_count": 1715
   },
   {
     "full_name": "quilljs/webpack-example",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "TailGrids/play-tailwind",
-    "stargazers_count": 913,
+    "stargazers_count": 917,
     "open_issues_count": 3,
     "forks_count": 209
   },
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "spookylukey/django-htmx-patterns",
-    "stargazers_count": 921,
+    "stargazers_count": 924,
     "open_issues_count": 2,
     "forks_count": 33
   },
   {
     "full_name": "easepick/easepick",
-    "stargazers_count": 615,
+    "stargazers_count": 616,
     "open_issues_count": 70,
     "forks_count": 62
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "moesaid/cleopatra",
-    "stargazers_count": 1425,
+    "stargazers_count": 1429,
     "open_issues_count": 0,
     "forks_count": 264
   },
@@ -103,37 +109,37 @@
   },
   {
     "full_name": "nareshbhatia/react-testing-techniques",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 1,
     "forks_count": 36
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 21988,
-    "open_issues_count": 1600,
-    "forks_count": 1320
+    "stargazers_count": 22041,
+    "open_issues_count": 1616,
+    "forks_count": 1331
   },
   {
     "full_name": "opencollective/opencollective-frontend",
     "stargazers_count": 813,
-    "open_issues_count": 102,
-    "forks_count": 400
+    "open_issues_count": 98,
+    "forks_count": 401
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17953,
+    "stargazers_count": 17961,
     "open_issues_count": 495,
-    "forks_count": 3046
+    "forks_count": 3048
   },
   {
     "full_name": "ObedNyakundi/Rental-house-management-system",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "Vimux/Mainroad",
-    "stargazers_count": 931,
+    "stargazers_count": 932,
     "open_issues_count": 29,
     "forks_count": 465
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "brainsum/cookieconsent",
-    "stargazers_count": 407,
+    "stargazers_count": 409,
     "open_issues_count": 49,
     "forks_count": 88
   },
@@ -153,11 +159,11 @@
     "full_name": "osano/cookieconsent",
     "stargazers_count": 3414,
     "open_issues_count": 93,
-    "forks_count": 576
+    "forks_count": 575
   },
   {
     "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 4056,
+    "stargazers_count": 4057,
     "open_issues_count": 49,
     "forks_count": 416
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 946,
-    "open_issues_count": 30,
-    "forks_count": 49
-  },
-  {
-    "full_name": "unfolding-io/nebulix",
-    "stargazers_count": 246,
-    "open_issues_count": 3,
-    "forks_count": 118
+    "stargazers_count": 951,
+    "open_issues_count": 29,
+    "forks_count": 48
   }
 ]
