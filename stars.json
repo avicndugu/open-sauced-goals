@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "Warzone2100/warzone2100",
+    "stargazers_count": 3232,
+    "open_issues_count": 421,
+    "forks_count": 533
+  },
+  {
+    "full_name": "11ty/eleventy",
+    "stargazers_count": 17281,
+    "open_issues_count": 413,
+    "forks_count": 495
+  },
+  {
+    "full_name": "saneef/eleventy-plugin-asciidoc",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "asciidocfx/HtmlToAsciidoc",
+    "stargazers_count": 22,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
+    "full_name": "asciidoctor/jekyll-asciidoc",
+    "stargazers_count": 313,
+    "open_issues_count": 15,
+    "forks_count": 78
+  },
+  {
     "full_name": "vshymanskyy/miband-js",
     "stargazers_count": 342,
     "open_issues_count": 23,
@@ -7,9 +37,9 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 34129,
-    "open_issues_count": 100,
-    "forks_count": 1303
+    "stargazers_count": 34191,
+    "open_issues_count": 103,
+    "forks_count": 1306
   },
   {
     "full_name": "phaneendra/daisy-hugo",
@@ -33,19 +63,19 @@
     "full_name": "rutikwankhade/CoverView",
     "stargazers_count": 907,
     "open_issues_count": 4,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "TailAdmin/free-react-tailwind-admin-dashboard",
-    "stargazers_count": 628,
+    "stargazers_count": 630,
     "open_issues_count": 2,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 27535,
-    "open_issues_count": 481,
-    "forks_count": 1715
+    "stargazers_count": 28237,
+    "open_issues_count": 470,
+    "forks_count": 1749
   },
   {
     "full_name": "quilljs/webpack-example",
@@ -55,9 +85,9 @@
   },
   {
     "full_name": "TailGrids/play-tailwind",
-    "stargazers_count": 917,
+    "stargazers_count": 922,
     "open_issues_count": 3,
-    "forks_count": 209
+    "forks_count": 212
   },
   {
     "full_name": "maddog986/react-typescript-tailwind-webpack-starter",
@@ -73,13 +103,13 @@
   },
   {
     "full_name": "spookylukey/django-htmx-patterns",
-    "stargazers_count": 924,
+    "stargazers_count": 927,
     "open_issues_count": 2,
     "forks_count": 33
   },
   {
     "full_name": "easepick/easepick",
-    "stargazers_count": 616,
+    "stargazers_count": 617,
     "open_issues_count": 70,
     "forks_count": 62
   },
@@ -97,7 +127,7 @@
   },
   {
     "full_name": "moesaid/cleopatra",
-    "stargazers_count": 1429,
+    "stargazers_count": 1430,
     "open_issues_count": 0,
     "forks_count": 264
   },
@@ -109,27 +139,27 @@
   },
   {
     "full_name": "nareshbhatia/react-testing-techniques",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 1,
-    "forks_count": 36
+    "forks_count": 35
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 22041,
-    "open_issues_count": 1616,
-    "forks_count": 1331
+    "stargazers_count": 22090,
+    "open_issues_count": 1617,
+    "forks_count": 1335
   },
   {
     "full_name": "opencollective/opencollective-frontend",
     "stargazers_count": 813,
-    "open_issues_count": 98,
+    "open_issues_count": 96,
     "forks_count": 401
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17961,
-    "open_issues_count": 495,
-    "forks_count": 3048
+    "stargazers_count": 17970,
+    "open_issues_count": 496,
+    "forks_count": 3049
   },
   {
     "full_name": "ObedNyakundi/Rental-house-management-system",
@@ -148,35 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "brainsum/cookieconsent",
-    "stargazers_count": 409,
-    "open_issues_count": 49,
-    "forks_count": 88
-  },
-  {
-    "full_name": "osano/cookieconsent",
-    "stargazers_count": 3414,
-    "open_issues_count": 93,
-    "forks_count": 575
-  },
-  {
-    "full_name": "orestbida/cookieconsent",
-    "stargazers_count": 4057,
-    "open_issues_count": 49,
-    "forks_count": 416
-  },
-  {
-    "full_name": "quiqr/quiqr-desktop",
-    "stargazers_count": 109,
-    "open_issues_count": 105,
-    "forks_count": 4
-  },
-  {
-    "full_name": "sveltia/sveltia-cms",
-    "stargazers_count": 951,
-    "open_issues_count": 29,
-    "forks_count": 48
   }
 ]
