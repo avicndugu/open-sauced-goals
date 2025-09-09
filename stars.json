@@ -13,27 +13,27 @@
   },
   {
     "full_name": "apvarun/blist-hugo-theme",
-    "stargazers_count": 366,
+    "stargazers_count": 365,
     "open_issues_count": 27,
     "forks_count": 168
   },
   {
     "full_name": "odhyp/hugo-tailwindcss-starter",
     "stargazers_count": 8,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "HEIGE-PCloud/DoIt",
-    "stargazers_count": 887,
+    "stargazers_count": 890,
     "open_issues_count": 6,
     "forks_count": 216
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 1563,
-    "open_issues_count": 79,
-    "forks_count": 321
+    "stargazers_count": 1572,
+    "open_issues_count": 80,
+    "forks_count": 324
   },
   {
     "full_name": "bep/hugo-starter-tailwind-basic",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "glidejs/glide",
-    "stargazers_count": 7645,
+    "stargazers_count": 7649,
     "open_issues_count": 247,
     "forks_count": 777
   },
   {
     "full_name": "jpanther/congo",
-    "stargazers_count": 1488,
-    "open_issues_count": 22,
-    "forks_count": 392
+    "stargazers_count": 1492,
+    "open_issues_count": 25,
+    "forks_count": 394
   },
   {
     "full_name": "CloudCannon/vonge-jekyll-bookshop-template",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "open-source-ideas/ideas",
-    "stargazers_count": 6688,
+    "stargazers_count": 6690,
     "open_issues_count": 275,
     "forks_count": 225
   },
@@ -78,28 +78,28 @@
     "forks_count": 4
   },
   {
-    "full_name": "freshjuice-dev/freshjuice-hubspot-theme",
+    "full_name": "freshjuice-dev/freshjuice-dev-hubspot-theme",
     "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "hugo-sid/hugo-blog-awesome",
-    "stargazers_count": 666,
+    "stargazers_count": 668,
     "open_issues_count": 21,
     "forks_count": 232
   },
   {
     "full_name": "devcows/hugo-universal-theme",
-    "stargazers_count": 879,
+    "stargazers_count": 880,
     "open_issues_count": 54,
     "forks_count": 591
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 1365,
+    "stargazers_count": 1366,
     "open_issues_count": 10,
-    "forks_count": 366
+    "forks_count": 367
   },
   {
     "full_name": "kbrsh/wing",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "oxalorg/sakura",
-    "stargazers_count": 4281,
+    "stargazers_count": 4285,
     "open_issues_count": 14,
     "forks_count": 186
   },
@@ -121,31 +121,31 @@
   },
   {
     "full_name": "SlateDesign/slate-blog",
-    "stargazers_count": 102,
+    "stargazers_count": 104,
     "open_issues_count": 2,
     "forks_count": 23
   },
   {
     "full_name": "lin-stephanie/astro-antfustyle-theme",
     "stargazers_count": 178,
-    "open_issues_count": 2,
-    "forks_count": 30
+    "open_issues_count": 1,
+    "forks_count": 31
   },
   {
     "full_name": "flo-bit/blog-template",
     "stargazers_count": 58,
     "open_issues_count": 5,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "cworld1/astro-theme-pure",
-    "stargazers_count": 441,
+    "stargazers_count": 448,
     "open_issues_count": 14,
-    "forks_count": 121
+    "forks_count": 125
   },
   {
     "full_name": "larry-xue/astro-zen-blog",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "beercss/beercss",
-    "stargazers_count": 1979,
-    "open_issues_count": 50,
+    "stargazers_count": 1994,
+    "open_issues_count": 52,
     "forks_count": 74
   }
 ]
