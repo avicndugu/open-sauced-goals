@@ -19,21 +19,21 @@
   },
   {
     "full_name": "odhyp/hugo-tailwindcss-starter",
-    "stargazers_count": 8,
-    "open_issues_count": 2,
+    "stargazers_count": 9,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "HEIGE-PCloud/DoIt",
-    "stargazers_count": 891,
+    "stargazers_count": 893,
     "open_issues_count": 3,
     "forks_count": 217
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 1608,
+    "stargazers_count": 1617,
     "open_issues_count": 86,
-    "forks_count": 332
+    "forks_count": 333
   },
   {
     "full_name": "bep/hugo-starter-tailwind-basic",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "glidejs/glide",
-    "stargazers_count": 7659,
+    "stargazers_count": 7661,
     "open_issues_count": 247,
     "forks_count": 776
   },
   {
     "full_name": "jpanther/congo",
-    "stargazers_count": 1508,
+    "stargazers_count": 1509,
     "open_issues_count": 27,
     "forks_count": 398
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "open-source-ideas/ideas",
-    "stargazers_count": 6697,
-    "open_issues_count": 276,
+    "stargazers_count": 6699,
+    "open_issues_count": 275,
     "forks_count": 226
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "hugo-sid/hugo-blog-awesome",
-    "stargazers_count": 678,
+    "stargazers_count": 680,
     "open_issues_count": 21,
-    "forks_count": 237
+    "forks_count": 238
   },
   {
     "full_name": "devcows/hugo-universal-theme",
-    "stargazers_count": 881,
+    "stargazers_count": 883,
     "open_issues_count": 54,
-    "forks_count": 595
+    "forks_count": 596
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 1376,
+    "stargazers_count": 1383,
     "open_issues_count": 13,
     "forks_count": 372
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "cworld1/astro-theme-pure",
-    "stargazers_count": 485,
+    "stargazers_count": 496,
     "open_issues_count": 14,
-    "forks_count": 141
+    "forks_count": 144
   },
   {
     "full_name": "larry-xue/astro-zen-blog",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "sun0225SUN/astro-air",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 5,
     "forks_count": 9
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "beercss/beercss",
-    "stargazers_count": 2028,
-    "open_issues_count": 44,
+    "stargazers_count": 2034,
+    "open_issues_count": 45,
     "forks_count": 74
   }
 ]
