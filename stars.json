@@ -8,7 +8,7 @@
   {
     "full_name": "jmooring/hvm",
     "stargazers_count": 65,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 63758,
-    "open_issues_count": 356,
-    "forks_count": 4470
+    "stargazers_count": 63801,
+    "open_issues_count": 355,
+    "forks_count": 4475
   },
   {
     "full_name": "vormwald/jekyll-tailwindcss",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 7594,
+    "stargazers_count": 7602,
     "open_issues_count": 29,
-    "forks_count": 873
+    "forks_count": 872
   },
   {
     "full_name": "salcan/BeyondNothing",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 1822,
-    "open_issues_count": 109,
+    "stargazers_count": 1825,
+    "open_issues_count": 110,
     "forks_count": 377
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "hugo-sid/hugo-blog-awesome",
-    "stargazers_count": 747,
-    "open_issues_count": 17,
+    "stargazers_count": 748,
+    "open_issues_count": 15,
     "forks_count": 249
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 1460,
-    "open_issues_count": 12,
-    "forks_count": 398
+    "stargazers_count": 1461,
+    "open_issues_count": 13,
+    "forks_count": 399
   },
   {
     "full_name": "kbrsh/wing",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "jenil/chota",
-    "stargazers_count": 1528,
+    "stargazers_count": 1529,
     "open_issues_count": 26,
-    "forks_count": 99
+    "forks_count": 98
   },
   {
     "full_name": "SlateDesign/slate-blog",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "lin-stephanie/astro-antfustyle-theme",
-    "stargazers_count": 215,
+    "stargazers_count": 216,
     "open_issues_count": 2,
     "forks_count": 38
   }
