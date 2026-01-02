@@ -1,7 +1,7 @@
 [
   {
     "full_name": "usaljs/usal",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 63853,
-    "open_issues_count": 357,
-    "forks_count": 4477
+    "stargazers_count": 63888,
+    "open_issues_count": 361,
+    "forks_count": 4481
   },
   {
     "full_name": "vormwald/jekyll-tailwindcss",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 7626,
+    "stargazers_count": 7636,
     "open_issues_count": 30,
-    "forks_count": 873
+    "forks_count": 874
   },
   {
     "full_name": "salcan/BeyondNothing",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "HEIGE-PCloud/DoIt",
-    "stargazers_count": 916,
+    "stargazers_count": 917,
     "open_issues_count": 1,
     "forks_count": 223
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 1835,
+    "stargazers_count": 1838,
     "open_issues_count": 110,
     "forks_count": 378
   },
@@ -93,19 +93,19 @@
     "full_name": "glidejs/glide",
     "stargazers_count": 7675,
     "open_issues_count": 246,
-    "forks_count": 772
+    "forks_count": 773
   },
   {
     "full_name": "jpanther/congo",
     "stargazers_count": 1568,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 403
   },
   {
     "full_name": "CloudCannon/vonge-jekyll-bookshop-template",
     "stargazers_count": 189,
     "open_issues_count": 0,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "CloudCannon/dante-jekyll-bookshop-template",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "open-source-ideas/ideas",
-    "stargazers_count": 6766,
+    "stargazers_count": 6769,
     "open_issues_count": 272,
     "forks_count": 229
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "hugo-sid/hugo-blog-awesome",
-    "stargazers_count": 750,
+    "stargazers_count": 752,
     "open_issues_count": 15,
-    "forks_count": 249
+    "forks_count": 250
   },
   {
     "full_name": "devcows/hugo-universal-theme",
-    "stargazers_count": 896,
+    "stargazers_count": 899,
     "open_issues_count": 58,
-    "forks_count": 601
+    "forks_count": 602
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 1463,
+    "stargazers_count": 1466,
     "open_issues_count": 14,
-    "forks_count": 402
+    "forks_count": 403
   },
   {
     "full_name": "kbrsh/wing",
