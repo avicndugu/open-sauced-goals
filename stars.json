@@ -1,7 +1,7 @@
 [
   {
     "full_name": "usaljs/usal",
-    "stargazers_count": 123,
+    "stargazers_count": 125,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 63941,
-    "open_issues_count": 365,
-    "forks_count": 4484
+    "stargazers_count": 63985,
+    "open_issues_count": 369,
+    "forks_count": 4487
   },
   {
     "full_name": "vormwald/jekyll-tailwindcss",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "russellsamora/scrollama",
-    "stargazers_count": 5928,
+    "stargazers_count": 5931,
     "open_issues_count": 11,
     "forks_count": 289
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 7664,
-    "open_issues_count": 33,
+    "stargazers_count": 7682,
+    "open_issues_count": 32,
     "forks_count": 878
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "imfing/hextra",
-    "stargazers_count": 1849,
-    "open_issues_count": 103,
+    "stargazers_count": 1856,
+    "open_issues_count": 102,
     "forks_count": 377
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "jpanther/congo",
-    "stargazers_count": 1570,
-    "open_issues_count": 31,
+    "stargazers_count": 1571,
+    "open_issues_count": 32,
     "forks_count": 404
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "open-source-ideas/ideas",
-    "stargazers_count": 6773,
+    "stargazers_count": 6776,
     "open_issues_count": 272,
     "forks_count": 229
   },
@@ -134,8 +134,8 @@
   {
     "full_name": "hugo-sid/hugo-blog-awesome",
     "stargazers_count": 753,
-    "open_issues_count": 16,
-    "forks_count": 252
+    "open_issues_count": 17,
+    "forks_count": 253
   },
   {
     "full_name": "devcows/hugo-universal-theme",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "zeon-studio/hugoplate",
-    "stargazers_count": 1471,
+    "stargazers_count": 1473,
     "open_issues_count": 14,
-    "forks_count": 403
+    "forks_count": 404
   },
   {
     "full_name": "kbrsh/wing",
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "oxalorg/sakura",
-    "stargazers_count": 4332,
+    "stargazers_count": 4333,
     "open_issues_count": 17,
     "forks_count": 185
   },
   {
     "full_name": "jenil/chota",
-    "stargazers_count": 1530,
+    "stargazers_count": 1531,
     "open_issues_count": 26,
     "forks_count": 98
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "lin-stephanie/astro-antfustyle-theme",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 2,
     "forks_count": 38
   }
