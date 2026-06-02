@@ -1,7 +1,7 @@
 [
   {
     "full_name": "dillonzq/LoveIt",
-    "stargazers_count": 3857,
+    "stargazers_count": 3858,
     "open_issues_count": 231,
     "forks_count": 1169
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "CloudCannon/venture-eleventy-bookshop-template",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "madrilene/eleventy-excellent",
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 6,
     "forks_count": 116
   },
@@ -51,7 +51,7 @@
     "full_name": "11ty/eleventy-base-blog",
     "stargazers_count": 1518,
     "open_issues_count": 22,
-    "forks_count": 713
+    "forks_count": 714
   },
   {
     "full_name": "broeker/spacebook",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15482,
+    "stargazers_count": 15476,
     "open_issues_count": 22,
-    "forks_count": 1128
+    "forks_count": 1127
   },
   {
     "full_name": "DavidAnson/markdownlint",
-    "stargazers_count": 6094,
+    "stargazers_count": 6104,
     "open_issues_count": 88,
-    "forks_count": 909
+    "forks_count": 912
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Astro-Decap-CMS",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Website-Kit-SASS",
-    "stargazers_count": 1024,
-    "open_issues_count": 1,
+    "stargazers_count": 1025,
+    "open_issues_count": 3,
     "forks_count": 293
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 16621,
+    "stargazers_count": 16626,
     "open_issues_count": 124,
     "forks_count": 502
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 64997,
+    "stargazers_count": 65005,
     "open_issues_count": 0,
-    "forks_count": 4723
+    "forks_count": 4725
   },
   {
     "full_name": "vormwald/jekyll-tailwindcss",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 8561,
-    "open_issues_count": 27,
-    "forks_count": 969
+    "stargazers_count": 8579,
+    "open_issues_count": 32,
+    "forks_count": 977
   },
   {
     "full_name": "salcan/BeyondNothing",
