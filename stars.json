@@ -1,9 +1,9 @@
 [
   {
     "full_name": "StartBootstrap/startbootstrap-clean-blog-jekyll",
-    "stargazers_count": 2134,
+    "stargazers_count": 2135,
     "open_issues_count": 60,
-    "forks_count": 2760
+    "forks_count": 2757
   },
   {
     "full_name": "dillonzq/LoveIt",
@@ -14,7 +14,7 @@
   {
     "full_name": "modernweb-dev/rocket",
     "stargazers_count": 393,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 53
   },
   {
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15479,
+    "stargazers_count": 15480,
     "open_issues_count": 22,
-    "forks_count": 1124
+    "forks_count": 1125
   },
   {
     "full_name": "DavidAnson/markdownlint",
-    "stargazers_count": 6228,
-    "open_issues_count": 82,
-    "forks_count": 930
+    "stargazers_count": 6230,
+    "open_issues_count": 83,
+    "forks_count": 933
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Astro-Decap-CMS",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Website-Kit-SASS",
-    "stargazers_count": 1026,
+    "stargazers_count": 1027,
     "open_issues_count": 1,
     "forks_count": 295
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 16741,
+    "stargazers_count": 16753,
     "open_issues_count": 124,
-    "forks_count": 503
+    "forks_count": 504
   },
   {
     "full_name": "divinerites/plausible-hugo",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "creativetimofficial/astro-ecommerce",
-    "stargazers_count": 480,
+    "stargazers_count": 481,
     "open_issues_count": 5,
-    "forks_count": 500
+    "forks_count": 501
   },
   {
     "full_name": "sterlingwes/decap-proxy",
@@ -128,7 +128,7 @@
   {
     "full_name": "usaljs/usal",
     "stargazers_count": 144,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 3
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 65155,
+    "stargazers_count": 65151,
     "open_issues_count": 0,
     "forks_count": 4775
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "russellsamora/scrollama",
-    "stargazers_count": 5988,
+    "stargazers_count": 5989,
     "open_issues_count": 11,
-    "forks_count": 292
+    "forks_count": 291
   },
   {
     "full_name": "scroll-out/scroll-out",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 8963,
-    "open_issues_count": 25,
-    "forks_count": 1020
+    "stargazers_count": 8983,
+    "open_issues_count": 24,
+    "forks_count": 1022
   },
   {
     "full_name": "salcan/BeyondNothing",
