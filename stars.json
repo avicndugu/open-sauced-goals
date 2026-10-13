@@ -7,21 +7,21 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-clean-blog-jekyll",
-    "stargazers_count": 2130,
+    "stargazers_count": 2131,
     "open_issues_count": 61,
     "forks_count": 2736
   },
   {
     "full_name": "dillonzq/LoveIt",
-    "stargazers_count": 3872,
+    "stargazers_count": 3871,
     "open_issues_count": 239,
     "forks_count": 1164
   },
   {
     "full_name": "modernweb-dev/rocket",
     "stargazers_count": 395,
-    "open_issues_count": 17,
-    "forks_count": 53
+    "open_issues_count": 18,
+    "forks_count": 52
   },
   {
     "full_name": "corex-ui/corex-ui",
@@ -57,11 +57,11 @@
     "full_name": "madrilene/eleventy-excellent",
     "stargazers_count": 616,
     "open_issues_count": 5,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "11ty/eleventy-base-blog",
-    "stargazers_count": 1545,
+    "stargazers_count": 1546,
     "open_issues_count": 23,
     "forks_count": 712
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "DavidAnson/markdownlint",
-    "stargazers_count": 6374,
+    "stargazers_count": 6383,
     "open_issues_count": 85,
-    "forks_count": 945
+    "forks_count": 946
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Astro-Decap-CMS",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Website-Kit-SASS",
-    "stargazers_count": 1032,
+    "stargazers_count": 1033,
     "open_issues_count": 3,
     "forks_count": 290
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 16853,
+    "stargazers_count": 16846,
     "open_issues_count": 126,
-    "forks_count": 504
+    "forks_count": 503
   },
   {
     "full_name": "divinerites/plausible-hugo",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "creativetimofficial/astro-ecommerce",
-    "stargazers_count": 495,
+    "stargazers_count": 497,
     "open_issues_count": 4,
     "forks_count": 499
   },
@@ -123,7 +123,7 @@
     "full_name": "sterlingwes/decap-proxy",
     "stargazers_count": 118,
     "open_issues_count": 1,
-    "forks_count": 116
+    "forks_count": 119
   },
   {
     "full_name": "Momentum-Free/astro-template-for-hono-workers-assets",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "usaljs/usal",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 65130,
+    "stargazers_count": 65140,
     "open_issues_count": 0,
-    "forks_count": 4805
+    "forks_count": 4804
   },
   {
     "full_name": "vormwald/jekyll-tailwindcss",
@@ -165,7 +165,7 @@
     "full_name": "russellsamora/scrollama",
     "stargazers_count": 6001,
     "open_issues_count": 11,
-    "forks_count": 292
+    "forks_count": 293
   },
   {
     "full_name": "scroll-out/scroll-out",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 9384,
-    "open_issues_count": 25,
-    "forks_count": 1060
+    "stargazers_count": 9399,
+    "open_issues_count": 31,
+    "forks_count": 1068
   }
 ]
