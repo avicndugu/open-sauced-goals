@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "lauroguedes/landpack",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "CloudCannon/astro-component-starter",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 6,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "StartBootstrap/startbootstrap-clean-blog-jekyll",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "dillonzq/LoveIt",
-    "stargazers_count": 3871,
+    "stargazers_count": 3870,
     "open_issues_count": 239,
-    "forks_count": 1164
+    "forks_count": 1163
   },
   {
     "full_name": "modernweb-dev/rocket",
@@ -62,26 +68,26 @@
   {
     "full_name": "11ty/eleventy-base-blog",
     "stargazers_count": 1546,
-    "open_issues_count": 23,
+    "open_issues_count": 18,
     "forks_count": 712
   },
   {
     "full_name": "broeker/spacebook",
     "stargazers_count": 321,
     "open_issues_count": 22,
-    "forks_count": 64
+    "forks_count": 63
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15484,
+    "stargazers_count": 15481,
     "open_issues_count": 22,
-    "forks_count": 1122
+    "forks_count": 1121
   },
   {
     "full_name": "DavidAnson/markdownlint",
     "stargazers_count": 6383,
-    "open_issues_count": 85,
-    "forks_count": 946
+    "open_issues_count": 79,
+    "forks_count": 945
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Astro-Decap-CMS",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "CodeStitchOfficial/Intermediate-Website-Kit-SASS",
-    "stargazers_count": 1033,
+    "stargazers_count": 1034,
     "open_issues_count": 3,
-    "forks_count": 290
+    "forks_count": 289
   },
   {
     "full_name": "avicndugu/open-sauced-goals",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 16846,
+    "stargazers_count": 16844,
     "open_issues_count": 126,
-    "forks_count": 503
+    "forks_count": 506
   },
   {
     "full_name": "divinerites/plausible-hugo",
@@ -117,11 +123,11 @@
     "full_name": "creativetimofficial/astro-ecommerce",
     "stargazers_count": 497,
     "open_issues_count": 4,
-    "forks_count": 499
+    "forks_count": 501
   },
   {
     "full_name": "sterlingwes/decap-proxy",
-    "stargazers_count": 118,
+    "stargazers_count": 117,
     "open_issues_count": 1,
     "forks_count": 119
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 65140,
+    "stargazers_count": 65138,
     "open_issues_count": 0,
     "forks_count": 4804
   },
@@ -171,12 +177,6 @@
     "full_name": "scroll-out/scroll-out",
     "stargazers_count": 1217,
     "open_issues_count": 22,
-    "forks_count": 122
-  },
-  {
-    "full_name": "withastro/starlight",
-    "stargazers_count": 9399,
-    "open_issues_count": 31,
-    "forks_count": 1068
+    "forks_count": 121
   }
 ]
